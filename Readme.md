@@ -1,4 +1,4 @@
-Music Information System
+# Music Information System
 
 
 Music Information System(MIS) was developed as a solution to users who want a play-list with similar songs to current playing song.
